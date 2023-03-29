@@ -9,9 +9,7 @@ function M.setup(config)
 
   -- Color Palette
   ---@class ColorScheme
-  local colors = {}
-
-  colors = {
+  local colors = {
     none = "NONE",
     reverse = "reverse",
     bg = "#32302f",
